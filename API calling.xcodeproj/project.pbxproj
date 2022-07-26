@@ -11,6 +11,7 @@
 		6804AE0628906FE900A7012D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6804AE0528906FE900A7012D /* ContentView.swift */; };
 		6804AE0828906FEA00A7012D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6804AE0728906FEA00A7012D /* Assets.xcassets */; };
 		6804AE0B28906FEA00A7012D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6804AE0A28906FEA00A7012D /* Preview Assets.xcassets */; };
+		6804AE142890718600A7012D /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6804AE132890718600A7012D /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6804AE0528906FE900A7012D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6804AE0728906FEA00A7012D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6804AE0A28906FEA00A7012D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6804AE132890718600A7012D /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				6804AE0328906FE900A7012D /* API_callingApp.swift */,
 				6804AE0528906FE900A7012D /* ContentView.swift */,
 				6804AE0728906FEA00A7012D /* Assets.xcassets */,
+				6804AE132890718600A7012D /* SwiftyJSON.swift */,
 				6804AE0928906FEA00A7012D /* Preview Content */,
 			);
 			path = "API calling";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6804AE142890718600A7012D /* SwiftyJSON.swift in Sources */,
 				6804AE0628906FE900A7012D /* ContentView.swift in Sources */,
 				6804AE0428906FE900A7012D /* API_callingApp.swift in Sources */,
 			);
